@@ -1,7 +1,7 @@
 # SOC Analyst & Blue Team Portfolio
 
 ## Sobre mí
-Técnico en Administración de Sistemas y especializado en Ciberseguridad en emtornos de las tecnologias de la información.
+Técnico en Administración de Sistemas y especializado en Ciberseguridad en entornos de las tecnologias de la información.
 
 Actualmente enfocado en:
 - Threat Detection
