@@ -1,8 +1,37 @@
-Aquí explicarás:
+# Wireshark Traffic Analysis Investigation
 
-- Qué investigaste
-- Cómo lo investigaste
-- Qué descubriste
-- Qué técnicas detectaste
-- Qué IOC encontraste
-- Qué conclusiones sacaste
+## Objetivo
+
+Analizar tráfico de red utilizando Wireshark para identificar actividad sospechosa, protocolos utilizados e indicadores de compromiso (IOC).
+
+## Escenario 1
+
+
+
+#### Actividad observada
+
+
+
+#### Análisis realizado
+
+La investigación se realizó siguiendo las siguientes fases:
+
+
+#### Herramienta/filtro utilizado
+
+
+
+#### Resultado encontrado
+
+
+
+#### Por qué es sospechoso
+
+
+
+#### IOC relacionados
+
+
+
+## Conclusión
+
