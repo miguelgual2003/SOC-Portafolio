@@ -8,7 +8,7 @@ Analizar tráfico de red utilizando Wireshark para identificar actividad sospech
 
 
 
-#### Actividad observada
+### Actividad observada
 
 
 
@@ -33,5 +33,5 @@ La investigación se realizó siguiendo las siguientes fases:
 
 
 
-## Conclusión
+#### Conclusión
 
