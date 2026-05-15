@@ -12,26 +12,26 @@ Analizar tráfico de red utilizando Wireshark para identificar actividad sospech
 
 
 
-#### Análisis realizado
+### Análisis realizado
 
 La investigación se realizó siguiendo las siguientes fases:
 
 
-#### Herramienta/filtro utilizado
+### Herramienta/filtro utilizado
 
 
 
-#### Resultado encontrado
+### Resultado encontrado
 
 
 
-#### Por qué es sospechoso
+### Por qué es sospechoso
 
 
 
-#### IOC relacionados
+### IOC relacionados
 
 
 
-#### Conclusión
+### Conclusión
 
